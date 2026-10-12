@@ -1,0 +1,65 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ricoz-workers
+  labels:
+    app: ricoz-workers
+spec:
+  replicas: 1
+  strategy:
+    type: Recreate
+  selector:
+    matchLabels:
+      app: ricoz-workers
+  template:
+    metadata:
+      labels:
+        app: ricoz-workers
+    spec:
+      terminationGracePeriodSeconds: 30
+      containers:
+        - name: workers
+          image: REPLACE_WITH_ECR_IMAGE_URI
+          imagePullPolicy: IfNotPresent
+          ports:
+            - name: http
+              containerPort: 4000
+          envFrom:
+            - configMapRef:
+                name: ricoz-api-config
+            - secretRef:
+                name: ricoz-api-env
+          env:
+            - name: SCHEDULERS_ENABLED
+              value: "true"
+            - name: CHAT_EMBEDDED_WORKER
+              value: "true"
+            - name: COMPLIANCE_WORKER_ENABLED
+              value: "true"
+          startupProbe:
+            httpGet:
+              path: /health
+              port: http
+            periodSeconds: 10
+            failureThreshold: 30
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: http
+            periodSeconds: 20
+            timeoutSeconds: 3
+            failureThreshold: 3
+          resources:
+            requests:
+              cpu: 500m
+              memory: 1Gi
+            limits:
+              cpu: "2"
+              memory: 2Gi
+          securityContext:
+            allowPrivilegeEscalation: false
+            capabilities:
+              drop:
+                - ALL
+            runAsNonRoot: true
+            runAsUser: 1000

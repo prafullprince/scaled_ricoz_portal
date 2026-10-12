@@ -1,0 +1,65 @@
+.drawer {
+  --brand-text: #242628;
+  --brand-text-muted: #737b80;
+  --brand-navy: #242628;
+  --brand-surface: #ffffff;
+  --brand-surface-hover: #eceeef;
+  --brand-border: #e3e5e7;
+  --status-danger: #c91d20;
+  --status-danger-bg: #fff0f0;
+  color: var(--brand-text);
+  background-color: var(--brand-surface);
+}
+
+.drawer[data-theme="dark"] {
+  --brand-text: #f8fafc;
+  --brand-text-muted: #a0a7b2;
+  --brand-navy: #35516d;
+  --brand-surface: #1b1e22;
+  --brand-surface-hover: #25292f;
+  --brand-border: #353a42;
+  --status-danger: #ff9a94;
+  --status-danger-bg: #3c2325;
+  color-scheme: dark;
+}
+
+.drawer[data-theme="dark"]:global(.bg-white),
+.drawer[data-theme="dark"] :global(.bg-white) {
+  background-color: var(--brand-surface);
+}
+
+.drawer[data-theme="dark"] :global([class*="bg-white/85"]) {
+  background-color: rgb(27 30 34 / 0.92);
+}
+
+.drawer[data-theme="dark"] :global(input),
+.drawer[data-theme="dark"] :global(textarea) {
+  color: var(--brand-text);
+  background-color: #1b1e22;
+  border-color: var(--brand-border);
+}
+
+.drawer[data-theme="dark"] :global(input::placeholder),
+.drawer[data-theme="dark"] :global(textarea::placeholder) {
+  color: #a0a7b2;
+}
+
+.drawer[data-theme="dark"] :global([class*="bg-(--brand-navy)/10"]) {
+  background-color: #27303b;
+}
+
+.drawer[data-theme="dark"] :global([class*="bg-(--brand-navy)"]) {
+  background-color: #35516d;
+}
+
+.drawer[data-theme="dark"] :global([class*="text-(--brand-navy)"]) {
+  color: #b9d8f4;
+}
+
+.drawer[data-theme="dark"] :global([class*="text-[#008f69]"]) {
+  color: #6ee7a0;
+}
+
+.drawer[data-theme="dark"] :global([class*="hover:border-(--brand-navy)"]:hover) {
+  border-color: #7895b2;
+}

@@ -1,0 +1,274 @@
+.board {
+  display: flex;
+  align-items: stretch;
+  gap: 16px;
+  min-height: 540px;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  padding: 20px;
+  background: #f5f6fa;
+  scrollbar-width: thin;
+}
+
+.column {
+  --stage-accent: #738096;
+  box-sizing: border-box;
+  display: flex;
+  width: clamp(280px, 25vw, 330px);
+  min-height: 500px;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-self: stretch;
+  border: 1px solid color-mix(in srgb, var(--stage-accent) 20%, var(--brand-border));
+  border-radius: 14px;
+  padding: 14px;
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--stage-accent) 9%, #fff),
+    color-mix(in srgb, var(--stage-accent) 4%, #fff) 58%,
+    #fff
+  );
+  transition: background 0.18s, border-color 0.18s, box-shadow 0.18s;
+}
+
+.column[data-accent="info"] { --stage-accent: #3b82f6; }
+.column[data-accent="warning"] { --stage-accent: #d99018; }
+.column[data-accent="danger"] { --stage-accent: #e04f5f; }
+.column[data-accent="purple"] { --stage-accent: #8b5cf6; }
+.column[data-accent="success"] { --stage-accent: #16945d; }
+
+.column[data-over="true"] {
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--stage-accent) 14%, #fff),
+    color-mix(in srgb, var(--stage-accent) 7%, #fff) 58%,
+    #fff
+  );
+  outline: 1px dashed var(--stage-accent);
+  outline-offset: 2px;
+}
+
+.columnHeader {
+  margin-bottom: 16px;
+  padding: 2px 1px 0;
+}
+
+.headingRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.stageName {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 9px;
+  margin: 0;
+  color: var(--brand-text);
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.stageDot {
+  width: 9px;
+  height: 9px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: var(--stage-accent);
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--stage-accent) 14%, transparent);
+}
+
+.count {
+  min-width: 26px;
+  border: 1px solid color-mix(in srgb, var(--stage-accent) 17%, transparent);
+  border-radius: 8px;
+  padding: 4px 8px;
+  background: var(--input-background, #fff);
+  color: var(--brand-text);
+  font-size: 12px;
+  font-weight: 700;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.stageHint {
+  min-height: 19px;
+  margin: 7px 0 0;
+  color: var(--brand-text-secondary);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.cards {
+  display: grid;
+  min-height: 0;
+  flex: 1 1 auto;
+  align-content: start;
+  gap: 12px;
+  max-height: 68vh;
+  overflow-y: auto;
+  padding: 1px 1px 10px;
+}
+
+.card {
+  border: 1px solid var(--brand-border);
+  border-radius: 12px;
+  padding: 15px;
+  background: var(--input-background, #fff);
+  box-shadow: 0 4px 12px #18243a0a;
+  transition: border-color 0.18s, box-shadow 0.18s, transform 0.18s;
+}
+
+.card:hover {
+  border-color: var(--brand-border-strong);
+  box-shadow: 0 12px 26px #18243a14;
+  transform: translateY(-1px);
+}
+
+.card[draggable="true"] { cursor: grab; }
+.card[draggable="true"]:active { cursor: grabbing; }
+
+.cardTitle {
+  color: var(--brand-navy);
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.015em;
+  overflow-wrap: anywhere;
+}
+
+.cardSubtitle {
+  display: block;
+  margin-top: 4px;
+  color: var(--brand-text-secondary);
+  font-size: 13px;
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+}
+
+.cardValue {
+  margin-top: 12px;
+  color: var(--brand-navy);
+  font-size: 15px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.cardFooter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: 13px;
+  border-top: 1px solid var(--brand-border);
+  padding-top: 11px;
+  color: var(--brand-text-muted);
+  font-size: 12px;
+}
+
+.cardMeta {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 9px;
+  color: var(--brand-text-secondary);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.cardMeta > :first-child { min-width: 0; }
+.cardMeta > :last-child { flex: 0 0 auto; }
+.warningMeta { color: var(--status-warning); }
+
+.tag {
+  max-width: 100%;
+  border-radius: 7px;
+  padding: 5px 8px;
+  background: var(--brand-surface-hover);
+  color: var(--brand-text-secondary);
+  font-size: 11px;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
+.actionLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin: 8px 0 0;
+  color: var(--brand-red);
+  font-size: 12px;
+  font-weight: 650;
+}
+
+.actionLink:hover { text-decoration: underline; }
+
+.select {
+  width: 100%;
+  min-width: 0;
+  border: 1px solid var(--brand-border);
+  border-radius: 7px;
+  padding: 8px 10px;
+  margin-top: 10px;
+  background: var(--input-background, #fff);
+  color: var(--brand-text);
+  font-size: 12px;
+  outline: none;
+}
+
+.select:focus {
+  border-color: var(--brand-red);
+  box-shadow: 0 0 0 3px var(--brand-red-pale);
+}
+
+.empty {
+  display: grid;
+  min-height: 80px;
+  place-items: center;
+  border: 1px dashed var(--brand-border-strong);
+  border-radius: 12px;
+  padding: 20px 12px;
+  background: color-mix(in srgb, var(--stage-accent) 2%, var(--input-background, #fff));
+  color: var(--brand-text-muted);
+  font-size: 12px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.loadMore {
+  margin: 0 0 2px;
+  border: 1px solid var(--brand-border);
+  border-radius: 8px;
+  padding: 9px 12px;
+  background: var(--input-background, #fff);
+  color: var(--brand-text-secondary);
+  font-size: 12px;
+  font-weight: 650;
+  transition: background 0.18s;
+}
+
+.loadMore:hover { background: var(--brand-surface-hover); }
+.loadMore:disabled { opacity: 0.55; }
+
+:global(html.dark) .board { background: #16181c; }
+
+:global(html.dark) .column {
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--stage-accent) 15%, #25212b),
+    color-mix(in srgb, var(--stage-accent) 8%, #25212b) 58%,
+    #25212b
+  );
+}
+
+:global(html.dark) .column[data-over="true"] {
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--stage-accent) 22%, #25212b),
+    color-mix(in srgb, var(--stage-accent) 12%, #25212b) 58%,
+    #25212b
+  );
+}

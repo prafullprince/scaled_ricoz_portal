@@ -1,0 +1,3 @@
+.hero {
+  background: linear-gradient(180deg, var(--brand-background) 55%, var(--brand-surface) 100%);
+}

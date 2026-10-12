@@ -1,0 +1,6 @@
+import Link from "next/link";
+import { ArrowRight, Send } from "lucide-react";
+
+export function OpenApplication() {
+  return <section id="open-application" className="scroll-mt-24 py-20"><div className="container-ricoz"><div className="flex flex-col gap-7 rounded-[24px] border border-[var(--brand-border)] bg-[var(--brand-surface)] p-7 md:flex-row md:items-center md:justify-between md:p-10"><div className="flex gap-4"><span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-[11px] bg-[var(--brand-red-pale)] text-[var(--brand-red)]"><Send size={19} /></span><div className="max-w-2xl"><p className="text-sm font-semibold uppercase tracking-[0.18em] text-[var(--brand-red)]">Open application</p><h2 className="mt-3 text-2xl font-black tracking-[-0.05em] text-[var(--brand-navy)] md:text-3xl">Don&apos;t see the right role?</h2><p className="mt-3 text-base leading-7 text-[var(--brand-text-secondary)]">Tell us what you can build, what you want to learn, and where you think you could contribute. The current site has no application form yet, so the next step is a direct conversation through the contact section.</p></div></div><Link href="#contact" className="ricoz-button-primary">Start a conversation <ArrowRight size={16} /></Link></div></div></section>;
+}

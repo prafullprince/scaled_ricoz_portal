@@ -1,0 +1,111 @@
+"use client";
+
+import Link from "next/link";
+import { useEffect, useMemo, useState } from "react";
+import { AlertTriangle, ArrowRight, BarChart3, BriefcaseBusiness, CheckCircle2, CircleGauge, Clock3, ListTodo, LoaderCircle, Search, Sparkles, Target, TrendingUp, UserPlus, Users } from "lucide-react";
+import { useAppSelector } from "@/redux/hooks";
+import { useGreeting } from "@/lib/greeting";
+import { OrganizationService, type OrganizationAssignment } from "@/services/organization.service";
+import { TaskService, type Task } from "@/services/task.service";
+import { ManagerTeamMemberDialog } from "./ManagerTeamMemberDialog";
+import { OrganizationRemovalDialog } from "./OrganizationRemovalDialog";
+import { HierarchyPerformanceBoard } from "./HierarchyPerformanceBoard";
+import { HierarchyProgressBoard } from "./HierarchyProgressBoard";
+
+type View = "overview" | "team" | "delivery" | "insights";
+type MemberStat = { assignment: OrganizationAssignment; tasks: Task[]; active: number; review: number; done: number; overdue: number; capacity: number };
+const views: Array<{ id: View; label: string; href: string; icon: typeof Users }> = [
+  { id: "overview", label: "Overview", href: "/dashboard", icon: CircleGauge },
+  { id: "team", label: "Team capacity", href: "/dashboard/manager/team", icon: Users },
+  { id: "delivery", label: "Delivery", href: "/dashboard/manager/delivery", icon: ListTodo },
+  { id: "insights", label: "Insights", href: "/dashboard/manager/insights", icon: BarChart3 },
+];
+const personId = (person: Task["assignedTo"]) => person && typeof person !== "string" ? person._id : person;
+const initials = (name: string) => name.split(" ").slice(0, 2).map((part) => part[0]).join("").toUpperCase();
+const formatDate = (value: string) => new Intl.DateTimeFormat("en-IN", { day: "numeric", month: "short" }).format(new Date(value));
+
+export function ManagerDashboard({ initialView = "overview" }: { initialView?: View }) {
+  const user = useAppSelector((state) => state.auth.user);
+  const view = initialView;
+  const [tasks, setTasks] = useState<Task[]>([]);
+  const [subtasks, setSubtasks] = useState<Task[]>([]);
+  const [assignments, setAssignments] = useState<OrganizationAssignment[]>([]);
+  const [query, setQuery] = useState("");
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState("");
+  const [loadedAt, setLoadedAt] = useState(0);
+  const [teamRevision, setTeamRevision] = useState(0);
+
+  useEffect(() => {
+    let active = true;
+    Promise.all([TaskService.workflow(), OrganizationService.list()])
+      .then(([workflow, organization]) => {
+        if (!active) return;
+        setTasks(workflow.tasks);
+        setSubtasks(workflow.subtasks);
+        setAssignments(organization);
+        setLoadedAt(Date.now());
+      })
+      .catch(() => active && setError("Your manager workspace could not be loaded."))
+      .finally(() => active && setLoading(false));
+    return () => { active = false; };
+  }, [teamRevision]);
+
+  const team = useMemo(() => assignments.filter((item) => item.level === "MEMBER" && item.reportsTo?._id === user?.user_id), [assignments, user?.user_id]);
+  const memberStats = useMemo(() => team.map((assignment) => {
+    const memberTasks = subtasks.filter((task) => personId(task.assignedTo) === assignment.userId._id);
+    const active = memberTasks.filter((task) => task.workflowStage === "ASSIGNED");
+    const review = memberTasks.filter((task) => task.workflowStage === "SUBMITTED");
+    const done = memberTasks.filter((task) => task.workflowStage === "COMPLETED");
+    return {
+      assignment,
+      tasks: memberTasks,
+      active: active.length,
+      review: review.length,
+      done: done.length,
+      overdue: active.filter((task) => new Date(task.deadline) < new Date()).length,
+      capacity: Math.min(140, active.length * 20),
+    };
+  }), [subtasks, team]);
+  const filteredMembers = memberStats.filter(({ assignment }) => `${assignment.userId.name} ${assignment.userId.email} ${assignment.userId.roles.join(" ")}`.toLowerCase().includes(query.toLowerCase()));
+  const activeTasks = subtasks.filter((task) => task.workflowStage === "ASSIGNED");
+  const reviewTasks = subtasks.filter((task) => task.workflowStage === "SUBMITTED");
+  const completedTasks = subtasks.filter((task) => task.workflowStage === "COMPLETED");
+  const overdueTasks = activeTasks.filter((task) => new Date(task.deadline) < new Date());
+  const dueSoon = activeTasks.filter((task) => { const remaining = new Date(task.deadline).getTime() - loadedAt; return remaining >= 0 && remaining <= 259200000; });
+  const overloaded = memberStats.filter((member) => member.capacity > 100);
+  const averageLoad = memberStats.length ? Math.round(memberStats.reduce((sum, member) => sum + member.capacity, 0) / memberStats.length) : 0;
+  const completionRate = subtasks.length ? Math.round(completedTasks.length / subtasks.length * 100) : 0;
+  const planningTasks = tasks.filter((task) => task.workflowStage === "MANAGER_PLANNING");
+  const firstName = user?.user_name?.split(" ")[0] ?? "Manager";
+  const greeting = useGreeting();
+
+  if (loading) return <div className="flex min-h-130 items-center justify-center"><LoaderCircle className="animate-spin text-[#2563eb]" /></div>;
+  if (error) return <div className="mx-auto max-w-310 rounded-lg border border-red-200 bg-red-50 p-5 text-sm font-semibold text-red-700">{error}</div>;
+
+  return <div className="mx-auto max-w-310 space-y-5">
+    <header className="flex flex-wrap items-end justify-between gap-4"><div><p className="text-xs font-bold uppercase tracking-[0.12em] text-[#64748b]">{user?.organization_department ?? "Team"} workspace</p><h1 className="mt-1 text-2xl font-extrabold text-[#111827]">Manager command center</h1><p className="mt-1 text-sm text-[#64748b]">One clear view of people, priorities, and delivery risk.</p></div><div className="flex flex-wrap items-center gap-2"><ManagerTeamMemberDialog onSuccess={() => setTeamRevision((revision) => revision + 1)} /><Link href="/dashboard/admin/tasks" className="inline-flex h-11 items-center gap-2 rounded-md bg-[#00b982] px-4 text-sm font-bold text-white transition hover:bg-[#009f70]"><ListTodo size={17} />Open task operations</Link></div></header>
+    <nav aria-label="Manager dashboard views" className="grid w-full grid-cols-2 gap-1 rounded-lg bg-[#eef2f7] p-1 sm:flex sm:w-fit">{views.map(({ id, label, href, icon: Icon }) => <Link key={id} href={href} aria-current={view === id ? "page" : undefined} className={`inline-flex h-9 items-center justify-center gap-2 rounded-md px-3 text-xs font-bold transition ${view === id ? "bg-white text-[#111827] shadow-sm" : "text-[#64748b] hover:text-[#111827]"}`}><Icon size={14} />{label}</Link>)}</nav>
+
+    {view === "overview" ? <>
+      <section className="overflow-hidden rounded-lg bg-[#2563eb] px-5 py-6 text-white shadow-[0_12px_28px_rgba(37,99,235,0.18)] sm:px-7"><div className="flex flex-wrap items-start justify-between gap-5"><div className="max-w-3xl"><p className="flex items-center gap-2 text-xs font-bold text-blue-100"><Sparkles size={15} />Manager brief</p><h2 className="mt-2 text-2xl font-extrabold">{greeting}, {firstName}.</h2><p className="mt-2 text-sm leading-6 text-blue-50">Your team has <strong>{activeTasks.length} active work items</strong> and <strong>{reviewTasks.length} awaiting review</strong>. {planningTasks.length ? `${planningTasks.length} plan${planningTasks.length === 1 ? " is" : "s are"} waiting for breakdown.` : "No plans are waiting for breakdown."} {overdueTasks.length ? ` ${overdueTasks.length} overdue item${overdueTasks.length === 1 ? " needs" : "s need"} attention.` : " Delivery is currently on schedule."}</p></div>{planningTasks.length ? <Link href="/dashboard/admin/tasks" className="inline-flex h-10 items-center gap-2 rounded-md bg-white px-4 text-xs font-bold text-[#1d4ed8]">Break down work <ArrowRight size={15} /></Link> : null}</div><div className="mt-5 flex flex-wrap gap-2"><BriefPill icon={Users} label={`${team.length} direct reports`} /><BriefPill icon={Target} label={`${completionRate}% CEO accepted`} /><BriefPill icon={AlertTriangle} label={`${overdueTasks.length + overloaded.length} risks`} /></div></section>
+      <div className="grid grid-cols-2 gap-3 xl:grid-cols-4"><Metric label="Direct reports" value={team.length} detail={`${averageLoad}% average capacity`} icon={Users} tone="green" /><Metric label="Work in progress" value={activeTasks.length} detail={`${dueSoon.length} due in 3 days`} icon={TrendingUp} tone="blue" /><Metric label="Needs attention" value={overdueTasks.length + planningTasks.length} detail={`${planningTasks.length} awaiting breakdown`} icon={Clock3} tone="orange" /><Metric label="Completion rate" value={`${completionRate}%`} detail={`${completedTasks.length} work items delivered`} icon={CheckCircle2} tone="violet" /></div>
+      <div className="grid gap-4 xl:grid-cols-[1.08fr_.92fr]"><Panel title="Team capacity today" action={<Link href="/dashboard/manager/team" className="text-xs font-bold text-[#2563eb]">View team</Link>}><div className="divide-y divide-[#edf1f6]">{memberStats.slice(0, 6).map((member) => <CapacityRow key={member.assignment._id} member={member} />)}{!memberStats.length ? <Empty title="Build your team" text="Add an intern or employee to start assigning work." icon={UserPlus} /> : null}</div></Panel><Panel title="Priority queue" action={<Link href="/dashboard/admin/tasks" className="text-xs font-bold text-[#2563eb]">View all</Link>}><div className="divide-y divide-[#edf1f6]">{[...planningTasks, ...activeTasks].slice(0, 6).map((task) => <TaskRow key={task._id} task={task} parent={tasks.find((item) => item._id === task.parentTaskId)} />)}{!planningTasks.length && !activeTasks.length ? <Empty title="Queue is clear" text="New plans and delegated work will appear here." icon={CheckCircle2} /> : null}</div></Panel></div>
+    </> : null}
+
+    {view === "team" ? <><div className="grid grid-cols-2 gap-3 sm:grid-cols-3"><Metric label="Team members" value={team.length} detail="Active direct reports" icon={Users} tone="green" /><Metric label="Average capacity" value={`${averageLoad}%`} detail={overloaded.length ? `${overloaded.length} overloaded` : "Workload balanced"} icon={CircleGauge} tone="blue" /><Metric label="Delivered" value={completedTasks.length} detail={`${completionRate}% of assigned work`} icon={CheckCircle2} tone="violet" /></div><Panel title="Team workspace" action={<div className="flex items-center gap-2 rounded-md border border-[#dfe6ee] bg-[#fbfcfe] px-3 py-2 text-[#94a3b8]"><Search size={14} /><input value={query} onChange={(event) => setQuery(event.target.value)} className="w-28 bg-transparent text-xs outline-none sm:w-36" placeholder="Search team" /></div>}><div className="grid gap-3 p-4 sm:grid-cols-2">{filteredMembers.map((member) => <MemberCard key={member.assignment._id} member={member} onRemoved={() => setTeamRevision((revision) => revision + 1)} />)}{!filteredMembers.length ? <div className="sm:col-span-2"><Empty title={team.length ? "No matching teammate" : "No direct reports yet"} text={team.length ? "Try a different name or role." : "Use Add team member to onboard your first direct report."} icon={Users} /></div> : null}</div></Panel></> : null}
+    {view === "delivery" ? <><div className="grid grid-cols-2 gap-3 sm:grid-cols-3"><Metric label="Incoming plans" value={planningTasks.length} detail="Ready for breakdown" icon={BriefcaseBusiness} tone="orange" /><Metric label="Active work" value={activeTasks.length} detail={`${dueSoon.length} due soon`} icon={ListTodo} tone="blue" /><Metric label="Overdue" value={overdueTasks.length} detail={overdueTasks.length ? "Intervention required" : "No delivery blockers"} icon={AlertTriangle} tone="green" /></div><HierarchyProgressBoard /><Panel title="Delivery portfolio" action={<Link href="/dashboard/admin/tasks" className="text-xs font-bold text-[#2563eb]">Manage workflow</Link>}><div className="divide-y divide-[#edf1f6]">{tasks.map((task) => <DeliveryRow key={task._id} task={task} workItems={subtasks.filter((item) => item.parentTaskId === task._id)} />)}{!tasks.length ? <Empty title="No active delivery plans" text="Plans assigned by your department head will appear here." icon={BriefcaseBusiness} /> : null}</div></Panel></> : null}
+    {view === "insights" ? <><HierarchyPerformanceBoard /><div className="grid gap-4 lg:grid-cols-[.9fr_1.1fr]"><Panel title="Team health indicators"><div className="space-y-5 p-5"><Health label="Delivery completion" value={completionRate} color="#00b982" /><Health label="Workload balance" value={Math.max(0, 100 - overloaded.length * 20)} color="#2563eb" /><Health label="Deadline health" value={activeTasks.length ? Math.round((activeTasks.length - overdueTasks.length) / activeTasks.length * 100) : 100} color="#f59e0b" /><Health label="Team utilization" value={Math.min(100, averageLoad)} color="#7c3aed" /></div></Panel><Panel title="Operational insights"><div className="space-y-3 p-4"><Insight tone="orange" title={overloaded.length ? "Capacity risk detected" : "Capacity is balanced"} text={overloaded.length ? `${overloaded.map((member) => member.assignment.userId.name).join(", ")} exceed planned capacity. Reassign the nearest-deadline work first.` : "No teammate is above planned capacity based on active work."} /><Insight tone="blue" title={`${planningTasks.length} plan${planningTasks.length === 1 ? "" : "s"} awaiting decomposition`} text={planningTasks.length ? "Break plans into independently deliverable work items before assigning the team." : "Every incoming plan has moved into delivery."} /><Insight tone="green" title="Delivery signal" text={`${completedTasks.length} of ${subtasks.length} delegated work items are complete. ${overdueTasks.length ? `${overdueTasks.length} overdue items are reducing predictability.` : "No overdue work is affecting predictability."}`} /></div></Panel></div></> : null}
+  </div>;
+}
+
+function Panel({ title, action, children }: { title: string; action?: React.ReactNode; children: React.ReactNode }) { return <section className="overflow-hidden rounded-lg border border-[#dfe6ee] bg-white shadow-[0_2px_8px_rgba(15,23,42,0.03)]"><header className="flex min-h-14 items-center justify-between gap-3 border-b border-[#edf1f6] px-5"><h2 className="text-sm font-extrabold text-[#111827]">{title}</h2>{action}</header>{children}</section>; }
+function BriefPill({ icon: Icon, label }: { icon: typeof Users; label: string }) { return <span className="inline-flex items-center gap-2 rounded-md bg-white/15 px-3 py-2 text-xs font-bold backdrop-blur"><Icon size={14} />{label}</span>; }
+function Metric({ label, value, detail, icon: Icon, tone }: { label: string; value: number | string; detail: string; icon: typeof Users; tone: "green" | "blue" | "orange" | "violet" }) { const tones = { green: "bg-emerald-50 text-emerald-600", blue: "bg-blue-50 text-blue-600", orange: "bg-amber-50 text-amber-600", violet: "bg-violet-50 text-violet-600" }; return <section className="rounded-lg border border-[#dfe6ee] bg-white p-5 shadow-[0_2px_8px_rgba(15,23,42,0.03)]"><div className="flex items-start justify-between"><p className="text-sm font-bold text-[#64748b]">{label}</p><span className={`rounded-md p-2 ${tones[tone]}`}><Icon size={18} /></span></div><strong className="mt-3 block text-3xl font-extrabold text-[#111827]">{value}</strong><p className="mt-1 text-xs text-[#8a9ab3]">{detail}</p></section>; }
+function CapacityRow({ member }: { member: MemberStat }) { const color = member.capacity > 100 ? "#ef4444" : member.capacity >= 80 ? "#f59e0b" : "#00b982"; return <div className="px-5 py-4"><div className="flex items-center gap-3"><span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-[#eef4ff] text-xs font-extrabold text-[#2563eb]">{initials(member.assignment.userId.name)}</span><div className="min-w-0 flex-1"><div className="flex items-center justify-between gap-3"><div className="min-w-0"><p className="truncate text-sm font-bold text-[#172033]">{member.assignment.userId.name}</p><p className="text-[11px] text-[#8a9ab3]">{member.active} active · {member.review} in review · {member.done} accepted</p></div><strong className="text-xs" style={{ color }}>{member.capacity}%</strong></div><div className="mt-2 h-1.5 overflow-hidden rounded-full bg-[#edf1f6]"><div className="h-full rounded-full" style={{ width: `${Math.min(100, member.capacity)}%`, backgroundColor: color }} /></div></div></div></div>; }
+function MemberCard({ member, onRemoved }: { member: MemberStat; onRemoved: () => void }) { const color = member.capacity > 100 ? "#ef4444" : member.capacity >= 80 ? "#f59e0b" : "#00b982"; return <article className="rounded-lg border border-[#dfe6ee] p-4"><div className="flex items-start gap-3"><span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#2563eb] text-xs font-extrabold text-white">{initials(member.assignment.userId.name)}</span><div className="min-w-0 flex-1"><div className="flex items-center justify-between gap-2"><h3 className="truncate text-sm font-bold text-[#172033]">{member.assignment.userId.name}</h3><div className="flex items-center gap-1"><span className={`rounded-full px-2 py-1 text-[10px] font-bold ${member.capacity > 100 ? "bg-red-50 text-red-600" : "bg-emerald-50 text-emerald-600"}`}>{member.capacity > 100 ? "Overloaded" : "Available"}</span><OrganizationRemovalDialog assignment={member.assignment} onRemoved={onRemoved} compact /></div></div><p className="mt-0.5 text-xs capitalize text-[#8a9ab3]">{member.assignment.userId.roles.join(" · ").toLowerCase()}</p></div></div><div className="mt-4 flex justify-between text-xs"><span className="text-[#64748b]">Capacity</span><strong style={{ color }}>{member.capacity}%</strong></div><div className="mt-2 h-1.5 overflow-hidden rounded-full bg-[#edf1f6]"><div className="h-full rounded-full" style={{ width: `${Math.min(100, member.capacity)}%`, backgroundColor: color }} /></div><div className="mt-4 flex flex-wrap gap-4 text-[11px] text-[#64748b]"><span><strong className="text-[#172033]">{member.active}</strong> active</span><span><strong className="text-blue-600">{member.review}</strong> review</span><span><strong className="text-[#172033]">{member.done}</strong> accepted</span><span><strong className={member.overdue ? "text-red-600" : "text-[#172033]"}>{member.overdue}</strong> overdue</span></div></article>; }
+function TaskRow({ task, parent }: { task: Task; parent?: Task }) { const overdue = task.status !== "DONE" && new Date(task.deadline) < new Date(); return <div className="flex items-center gap-3 px-5 py-4"><span className={`flex h-9 w-9 shrink-0 items-center justify-center rounded-full ${overdue ? "bg-red-50 text-red-600" : "bg-blue-50 text-blue-600"}`}>{task.workflowStage === "MANAGER_PLANNING" ? <BriefcaseBusiness size={16} /> : <ListTodo size={16} />}</span><div className="min-w-0 flex-1"><p className="truncate text-sm font-bold text-[#172033]">{task.title}</p><p className="truncate text-[11px] text-[#8a9ab3]">{parent?.title ?? task.department ?? "Incoming delivery plan"}</p></div><div className="text-right"><p className={`text-xs font-bold ${overdue ? "text-red-600" : "text-[#64748b]"}`}>{task.workflowStage === "MANAGER_PLANNING" ? "Plan work" : formatDate(task.deadline)}</p><p className="mt-1 text-[10px] text-[#94a3b8]">{task.status === "DONE" ? "Complete" : overdue ? "Overdue" : "Open"}</p></div></div>; }
+function DeliveryRow({ task, workItems }: { task: Task; workItems: Task[] }) { const done = workItems.filter((item) => item.status === "DONE").length; const progress = workItems.length ? Math.round(done / workItems.length * 100) : 0; return <div className="p-5"><div className="flex flex-wrap items-start justify-between gap-3"><div><span className="text-[10px] font-bold uppercase tracking-[0.08em] text-[#2563eb]">{task.department ?? "Team delivery"}</span><h3 className="mt-1 text-sm font-extrabold text-[#172033]">{task.title}</h3><p className="mt-1 text-xs text-[#8a9ab3]">Due {formatDate(task.deadline)} · {workItems.length} work items</p></div><span className="rounded-full bg-[#f1f5f9] px-2.5 py-1 text-[10px] font-bold text-[#64748b]">{task.workflowStage === "MANAGER_PLANNING" ? "Needs breakdown" : task.workflowStage === "COMPLETED" ? "Complete" : "In delivery"}</span></div><div className="mt-4 flex items-center gap-3"><div className="h-2 flex-1 overflow-hidden rounded-full bg-[#edf1f6]"><div className="h-full rounded-full bg-[#00b982]" style={{ width: `${progress}%` }} /></div><strong className="w-9 text-right text-xs text-[#172033]">{progress}%</strong></div></div>; }
+function Health({ label, value, color }: { label: string; value: number; color: string }) { return <div><div className="flex justify-between text-xs"><span className="font-bold text-[#475569]">{label}</span><strong className="text-[#172033]">{value}</strong></div><div className="mt-2 h-2 overflow-hidden rounded-full bg-[#edf1f6]"><div className="h-full rounded-full" style={{ width: `${value}%`, backgroundColor: color }} /></div></div>; }
+function Insight({ tone, title, text }: { tone: "green" | "blue" | "orange"; title: string; text: string }) { const tones = { green: "border-emerald-100 bg-emerald-50 text-emerald-700", blue: "border-blue-100 bg-blue-50 text-blue-700", orange: "border-amber-100 bg-amber-50 text-amber-700" }; return <article className={`rounded-lg border p-4 ${tones[tone]}`}><h3 className="flex items-center gap-2 text-xs font-extrabold"><Sparkles size={14} />{title}</h3><p className="mt-2 text-xs leading-5 text-[#475569]">{text}</p></article>; }
+function Empty({ title, text, icon: Icon }: { title: string; text: string; icon: typeof Users }) { return <div className="flex flex-col items-center px-5 py-10 text-center"><span className="rounded-full bg-[#f1f5f9] p-3 text-[#94a3b8]"><Icon size={20} /></span><h3 className="mt-3 text-sm font-bold text-[#172033]">{title}</h3><p className="mt-1 max-w-sm text-xs leading-5 text-[#8a9ab3]">{text}</p></div>; }

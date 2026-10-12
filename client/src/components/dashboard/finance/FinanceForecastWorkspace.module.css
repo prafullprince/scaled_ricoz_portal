@@ -1,0 +1,174 @@
+:global(html.dark) .financeForecast {
+  color: var(--brand-text);
+  color-scheme: dark;
+}
+
+:global(html.dark) .financeForecast [class*="text-[#"] {
+  color: var(--brand-text-secondary);
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="text-[#17243b]"],
+  [class*="text-[#19263d]"],
+  [class*="text-[#26344a]"],
+  [class*="text-[#27364b]"],
+  [class*="text-[#27364e]"],
+  [class*="text-[#34445c]"],
+  [class*="text-[#34445d]"],
+  [class*="text-[#34445f]"],
+  [class*="text-[#40506a]"],
+  [class*="text-[#43516a]"],
+  [class*="text-[#46556d]"],
+  [class*="text-[#52637d]"],
+  [class*="text-[#58677e]"],
+  [class*="text-[#59677b]"],
+  [class*="text-[#596981]"]
+) {
+  color: var(--brand-text);
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="text-[#3478f6]"],
+  [class*="text-[#0B3B9E]"],
+  [class*="text-[#123e9e]"],
+  [class*="text-[#0d3fa3]"]
+) {
+  color: #93c5fd;
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="text-[#0eaa79]"],
+  [class*="text-[#0a9870]"],
+  [class*="text-[#13a256]"],
+  [class*="text-[#16844b]"]
+) {
+  color: var(--status-success);
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="text-[#8759d7]"],
+  [class*="text-[#8457d7]"],
+  [class*="text-[#7c3aed]"]
+) {
+  color: #c4a7ff;
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="text-[#db8c20]"],
+  [class*="text-[#e99a00]"],
+  [class*="text-[#f59e0b]"]
+) {
+  color: var(--status-warning);
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="text-[#c34853]"],
+  [class*="text-[#d92d20]"]
+) {
+  color: var(--status-danger);
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="bg-[#edf3ff]"],
+  [class*="bg-[#eaf1ff]"],
+  [class*="bg-[#f1f7ff]"],
+  [class*="bg-[#e6f1ff]"]
+) {
+  background-color: var(--status-info-bg);
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="bg-[#e9f8f2]"],
+  [class*="bg-[#e3faec]"]
+) {
+  background-color: var(--status-success-bg);
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="bg-[#f2edff]"],
+  [class*="bg-[#f4eaff]"]
+) {
+  background-color: #30233f;
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="bg-[#fff5e7]"],
+  [class*="bg-[#fff4d4]"]
+) {
+  background-color: var(--status-warning-bg);
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="bg-[#fff7f7]"],
+  [class*="bg-[#fff4f4]"],
+  [class*="bg-[#fff1f1]"],
+  [class*="bg-[#fff7f7]"],
+  [class*="bg-[#fff8f7]"]
+) {
+  background-color: var(--status-danger-bg);
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="bg-[#fffbec]"],
+  [class*="bg-[#fff9e9]"]
+) {
+  background-color: var(--status-warning-bg);
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="border-[#e9eef5]"],
+  [class*="border-[#e8edf4]"],
+  [class*="border-[#e7ebf1]"],
+  [class*="border-[#edf0f5]"],
+  [class*="border-[#e7ecf3]"],
+  [class*="border-[#e7edf4]"],
+  [class*="border-[#e3e9f1]"],
+  [class*="border-[#e5ebf3]"],
+  [class*="border-[#dce5f0]"],
+  [class*="border-[#dce3ed]"],
+  [class*="border-[#f2d9da]"],
+  [class*="border-[#f2e8c7]"]
+) {
+  border-color: var(--brand-border);
+}
+
+:global(html.dark) .financeForecast svg text {
+  fill: var(--brand-text-secondary);
+}
+
+:global(html.dark) .financeForecast svg line:is(
+  [stroke="#e9eef5"],
+  [stroke="#e8edf4"],
+  [stroke="#e7ebf1"],
+  [stroke="#69788e"]
+) {
+  stroke: var(--brand-border-strong);
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="hover:bg-[#fafcff]"],
+  [class*="hover:bg-[#fbfcfe]"],
+  [class*="hover:bg-[#f7f9fc]"],
+  [class*="hover:bg-[#f2f5f9]"],
+  [class*="hover:bg-white"]
+):hover {
+  background-color: var(--brand-surface-hover);
+}
+
+:global(html.dark) .financeForecast .group:hover :is(
+  [class*="group-hover:bg-[#fafcff]"],
+  [class*="group-hover:bg-[#fbfcfe]"]
+) {
+  background-color: var(--brand-surface-hover);
+}
+
+:global(html.dark) .financeForecast :is(
+  [class*="hover:bg-[#edf3ff]"],
+  [class*="focus:bg-[#edf3ff]"]
+):is(:hover, :focus) {
+  background-color: var(--status-info-bg);
+}
+
+:global(html.dark) .financeForecast [class*="hover:bg-red-100"]:hover {
+  background-color: var(--status-danger-bg);
+}

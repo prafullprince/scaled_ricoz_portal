@@ -1,0 +1,75 @@
+:global(body):has(.page) {
+  overflow-x: clip;
+}
+
+.page [data-landing-motion="section"] {
+  position: relative;
+  animation: none;
+  will-change: auto;
+}
+
+.page [data-landing-motion="section"][data-stack-mode="pinned"] {
+  position: sticky;
+  top: 76px;
+}
+
+@media (max-height: 555px) {
+  .page [data-landing-motion="section"][data-stack-layer="0"] {
+    position: relative;
+    top: auto;
+  }
+}
+
+@media (max-height: 891px) {
+  .page [data-landing-motion="section"][data-stack-layer="5"] {
+    position: relative;
+    top: auto;
+  }
+}
+
+@media (max-height: 855px) {
+  .page [data-landing-motion="section"][data-stack-layer="6"] {
+    position: relative;
+    top: auto;
+  }
+}
+
+@media (max-height: 574px) {
+  .page [data-landing-motion="section"][data-stack-layer="7"] {
+    position: relative;
+    top: auto;
+  }
+}
+
+@media (max-height: 375px) {
+  .page [data-landing-motion="section"][data-stack-layer="8"] {
+    position: relative;
+    top: auto;
+  }
+}
+
+.page [data-landing-motion="section"]:not([data-stack-layer="0"]) {
+  margin-top: -1rem;
+  box-shadow: 0 -14px 38px -28px rgba(16, 24, 40, 0.52);
+}
+
+@media (min-width: 768px) {
+  .page [data-landing-motion="section"]:not([data-stack-layer="0"]) {
+    margin-top: -1.5rem;
+  }
+}
+
+.page section h1 {
+  margin-top: 1.5rem;
+  letter-spacing: -0.06em;
+}
+
+.page section h2 {
+  margin-top: 0.75rem;
+  letter-spacing: -0.06em;
+}
+
+.page section h3 {
+  margin-top: 1.25rem;
+  letter-spacing: -0.04em;
+}

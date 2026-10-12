@@ -1,0 +1,813 @@
+"filename", "language", "TypeScript", "TypeScript JSX", "Markdown", "PostCSS", "JavaScript", "JSON", "XML", "JSON with Comments", "JavaScript JSX", "YAML", "Ignore", "Docker", "comment", "blank", "total"
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/COMPLETE_SALES_PRODUCT_FEATURES.md", "Markdown", 0, 0, 1441, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 379, 1820
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/COMPLIANCE_MANAGEMENT.md", "Markdown", 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 52
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/DEPLOYMENT.md", "Markdown", 0, 0, 197, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 76, 273
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/SALES_ARCHITECTURE.md", "Markdown", 0, 0, 244, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 68, 312
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/AGENTS.md", "Markdown", 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/CLAUDE.md", "Markdown", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/README.md", "Markdown", 0, 0, 85, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 112
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/eslint.config.mjs", "JavaScript", 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 2, 3, 19
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/next.config.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/package-lock.json", "JSON", 0, 0, 0, 0, 0, 8628, 0, 0, 0, 0, 0, 0, 0, 1, 8629
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/package.json", "JSON", 0, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1, 42
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/postcss.config.mjs", "JavaScript", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/public/chat-wallpaper.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/public/file.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/public/globe.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/public/next.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/public/vercel.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/public/window.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/about/page.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 18
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/api/catalogue/route.ts", "TypeScript", 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/careers/internships/[id]/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/careers/jobs/[id]/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/careers/page.tsx", "TypeScript JSX", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/contact/page.tsx", "TypeScript JSX", 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/applications/add-candidate/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/applications/page.tsx", "TypeScript JSX", 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 22
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/hr/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/internships/create/page.tsx", "TypeScript JSX", 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/jobs/create/page.tsx", "TypeScript JSX", 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/opportunities/page.tsx", "TypeScript JSX", 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/products/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/recruitment-pipeline/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/service-requests/page.tsx", "TypeScript JSX", 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/services/create/page.tsx", "TypeScript JSX", 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/services/page.tsx", "TypeScript JSX", 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/task-reports/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/tasks/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/admin/users/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/applications/page.tsx", "TypeScript JSX", 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/companies/[companyId]/page.tsx", "TypeScript JSX", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/companies/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/compliance/[[...view]]/page.tsx", "TypeScript JSX", 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/customer/billing/page.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/customer/orders/page.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/customer/page.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/customer/projects/page.tsx", "TypeScript JSX", 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/customer/requests/page.tsx", "TypeScript JSX", 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/documents/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/employee/assistant/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/employee/attendance/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/employee/calendar/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/employee/documents/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/employee/goals/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/employee/investor-verifications/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/employee/leave/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/employee/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/employee/performance/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/employee/task-report/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/employee/tasks/page.tsx", "TypeScript JSX", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/employee/work/page.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/executive/attendance/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/executive/calendar/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/executive/leave/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/executive/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/finance/[[...view]]/page.tsx", "TypeScript JSX", 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 23
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/hr/[[...view]]/page.tsx", "TypeScript JSX", 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/integrations/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/intern/assistant/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/intern/attendance/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/intern/calendar/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/intern/documents/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/intern/goals/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/intern/learning/page.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/intern/leave/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/intern/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/intern/performance/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/intern/projects/page.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/intern/task-report/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/intern/tasks/page.tsx", "TypeScript JSX", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/investor/documents/page.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/investor/investments/page.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/investor/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/investor/updates/page.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/investor/verification/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/layout.tsx", "TypeScript JSX", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/manager/delivery/page.tsx", "TypeScript JSX", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/manager/insights/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/manager/team/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/marketing/[[...view]]/page.tsx", "TypeScript JSX", 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/messages/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/my-payments/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/notifications/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/onboarding/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/organization/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/pay/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/planner/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/product-engineering-pipeline/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/product-engineering-pipeline/reports/page.tsx", "TypeScript JSX", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 11
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/product-engineering-pipeline/technical/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/products/page.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/profile/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/sales/[[...view]]/page.tsx", "TypeScript JSX", 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/security/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/settings/compliance/page.tsx", "TypeScript JSX", 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/settings/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/users/[userId]/page.tsx", "TypeScript JSX", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/dashboard/users/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/forgot-password/page.tsx", "TypeScript JSX", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 11
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/globals.css", "PostCSS", 0, 0, 0, 626, 0, 0, 0, 0, 0, 0, 0, 0, 106, 210, 942
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/investors/page.tsx", "TypeScript JSX", 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 44
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/layout.tsx", "TypeScript JSX", 0, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 56
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/login/page.tsx", "TypeScript JSX", 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/page.tsx", "TypeScript JSX", 0, 74, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 78
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/products/[slug]/error.tsx", "TypeScript JSX", 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 29
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/products/[slug]/page.tsx", "TypeScript JSX", 0, 233, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 238
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/products/page.tsx", "TypeScript JSX", 0, 153, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 157
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/services/[slug]/page.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/services/page.tsx", "TypeScript JSX", 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 35
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/signup/page.tsx", "TypeScript JSX", 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 20
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/solutions/page.tsx", "TypeScript JSX", 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 44
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/template.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/unauthorized/page.tsx", "TypeScript JSX", 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 27
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/verify-email/page.tsx", "TypeScript JSX", 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/whats-new/[id]/page.tsx", "TypeScript JSX", 0, 275, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 289
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/app/whats-new/page.tsx", "TypeScript JSX", 0, 146, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 152
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/NetworkActivityIndicator.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 18
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/SiteTheme.tsx", "TypeScript JSX", 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 23
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/auth/AuthForms.tsx", "TypeScript JSX", 0, 739, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 31, 779
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/auth/AuthLayout.tsx", "TypeScript JSX", 0, 107, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 114
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/auth/AuthOnlyGuard.tsx", "TypeScript JSX", 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 35
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/auth/PasswordInput.tsx", "TypeScript JSX", 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 45
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/CandidateProfile.tsx", "TypeScript JSX", 0, 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 44
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/CareerAreas.tsx", "TypeScript JSX", 0, 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 46
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/CareersCTA.tsx", "TypeScript JSX", 0, 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 39
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/CareersHero.tsx", "TypeScript JSX", 0, 90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 92
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/GrowthSection.tsx", "TypeScript JSX", 0, 53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 55
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/HiringProcess.tsx", "TypeScript JSX", 0, 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/InternshipSection.tsx", "TypeScript JSX", 0, 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 39
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/JobList.tsx", "TypeScript JSX", 0, 108, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 111
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/LifeAtRicoz.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/LiveCareersBrowser.tsx", "TypeScript JSX", 0, 513, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, 552
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/OpenApplication.tsx", "TypeScript JSX", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/OpportunityDetail.tsx", "TypeScript JSX", 0, 662, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 710
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/careers/WhyRicoz.tsx", "TypeScript JSX", 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/AdminDailyReportView.tsx", "TypeScript JSX", 0, 79, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 84
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/AdminHrManagement.tsx", "TypeScript JSX", 0, 116, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 127
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/AdminRecruitmentView.tsx", "TypeScript JSX", 0, 1477, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38, 1515
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/AdminTaskReportView.tsx", "TypeScript JSX", 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 19
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/AdminUserPromotionView.tsx", "TypeScript JSX", 0, 87, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 96
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ApplicationsView.tsx", "TypeScript JSX", 0, 298, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 314
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/AssistantView.tsx", "TypeScript JSX", 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 38
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ChatCallProvider.tsx", "TypeScript JSX", 0, 853, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 43, 897
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ChatNotificationListener.tsx", "TypeScript JSX", 0, 103, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 114
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ChatWorkspace.tsx", "TypeScript JSX", 0, 1080, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 20, 1101
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/CompanyDirectoryView.tsx", "TypeScript JSX", 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 129
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/CompanyOverviewView.tsx", "TypeScript JSX", 0, 214, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 234
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/CompanySwitcherDrawer.module.css", "PostCSS", 0, 0, 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 66
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/CompanySwitcherDrawer.tsx", "TypeScript JSX", 0, 314, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 19, 335
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ConfirmUserDeletionDialog.tsx", "TypeScript JSX", 0, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 75
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/CustomerServicesView.tsx", "TypeScript JSX", 0, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 36
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/DailyPlannerView.tsx", "TypeScript JSX", 0, 166, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 185
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/DailyTaskWorkspace.tsx", "TypeScript JSX", 0, 442, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 453
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/DashboardBreadcrumbs.tsx", "TypeScript JSX", 0, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 76
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/DashboardHeader.tsx", "TypeScript JSX", 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 60
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/DashboardMobileNav.tsx", "TypeScript JSX", 0, 87, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 93
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/DashboardOverview.tsx", "TypeScript JSX", 0, 336, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 350
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/DashboardPrimitives.tsx", "TypeScript JSX", 0, 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 80
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/DashboardShell.tsx", "TypeScript JSX", 0, 142, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 11, 154
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/DashboardSidebar.tsx", "TypeScript JSX", 0, 317, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 322
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/DashboardUserMenu.tsx", "TypeScript JSX", 0, 152, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7, 161
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/DepartmentRail.tsx", "TypeScript JSX", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/EmployeeWorkspaceView.tsx", "TypeScript JSX", 0, 809, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 6, 864
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ExecutiveDashboardView.tsx", "TypeScript JSX", 0, 122, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 134
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ExternalCandidateIntake.tsx", "TypeScript JSX", 0, 245, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 262
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/GroupCallProvider.tsx", "TypeScript JSX", 0, 695, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 42, 742
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/HierarchyPerformanceBoard.tsx", "TypeScript JSX", 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 81
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/HierarchyProgressBoard.tsx", "TypeScript JSX", 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/LeavePolicyEditor.tsx", "TypeScript JSX", 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 34
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ManagerDashboard.tsx", "TypeScript JSX", 0, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 111
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ManagerTeamMemberDialog.tsx", "TypeScript JSX", 0, 115, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 122
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/MarkdownContent.tsx", "TypeScript JSX", 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 42
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/MyHrDocuments.tsx", "TypeScript JSX", 0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 68
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/MyPayoutWorkspace.tsx", "TypeScript JSX", 0, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 122
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/MyPayslips.tsx", "TypeScript JSX", 0, 66, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 73
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/NotificationsView.tsx", "TypeScript JSX", 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 27
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/OpportunityForm.tsx", "TypeScript JSX", 0, 749, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 784
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/OrganizationRemovalDialog.tsx", "TypeScript JSX", 0, 154, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 161
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ProductEngineeringPipelineWorkspace.tsx", "TypeScript JSX", 0, 559, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 591
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ProfileCompanySwitcher.tsx", "TypeScript JSX", 0, 79, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 85
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ProfileView.tsx", "TypeScript JSX", 0, 281, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 19, 305
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/RecruitmentPipelineView.tsx", "TypeScript JSX", 0, 520, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 42, 562
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/RoleAreaPage.tsx", "TypeScript JSX", 0, 54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8, 63
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/RoleDashboardView.tsx", "TypeScript JSX", 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 30
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/SecurityView.tsx", "TypeScript JSX", 0, 171, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 184
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ServiceAdminView.tsx", "TypeScript JSX", 0, 63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8, 73
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/ServiceForm.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/SettingsView.tsx", "TypeScript JSX", 0, 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 43
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/StructuredAdminTaskWorkspace.tsx", "TypeScript JSX", 0, 348, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 357
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/TaskContributionGrid.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/TaskWorkflowWorkspace.tsx", "TypeScript JSX", 0, 1547, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 1573
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/TaskWorkspace.tsx", "TypeScript JSX", 0, 565, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 573
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/UserDirectoryView.tsx", "TypeScript JSX", 0, 270, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18, 291
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/UserOnboardingView.tsx", "TypeScript JSX", 0, 119, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 129
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/UserProfileDialog.tsx", "TypeScript JSX", 0, 131, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 140
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/UserProfileView.tsx", "TypeScript JSX", 0, 297, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 22, 320
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/AttachmentPreviewBar.tsx", "TypeScript JSX", 0, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 73
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/AttachmentViews.tsx", "TypeScript JSX", 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 62
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/Avatar.tsx", "TypeScript JSX", 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 30
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/CallsWorkspace.tsx", "TypeScript JSX", 0, 107, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 111
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/ChatHeader.tsx", "TypeScript JSX", 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 123
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/ChatThemeToggle.tsx", "TypeScript JSX", 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 27
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/ChatWorkspace.module.css", "PostCSS", 0, 0, 0, 289, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34, 323
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/ConversationSidebar.tsx", "TypeScript JSX", 0, 162, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 167
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/DetailsPanel.tsx", "TypeScript JSX", 0, 288, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 297
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/EmptyChatPlaceholder.tsx", "TypeScript JSX", 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/EmptyInbox.tsx", "TypeScript JSX", 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 20
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/MessageBubble.tsx", "TypeScript JSX", 0, 402, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 421
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/MessageComposer.tsx", "TypeScript JSX", 0, 273, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 282
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/MessageList.tsx", "TypeScript JSX", 0, 87, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 90
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/NewConversationDialog.tsx", "TypeScript JSX", 0, 182, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 185
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/ReplyEditBanner.tsx", "TypeScript JSX", 0, 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 42
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/StatusWorkspace.tsx", "TypeScript JSX", 0, 182, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 195
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/TypingBubble.tsx", "TypeScript JSX", 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 36
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/chat/chatHelpers.ts", "TypeScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/compliance/ComplianceWorkspaceView.tsx", "TypeScript JSX", 0, 288, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 315
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/delivery/DeliveryTaskEntry.tsx", "TypeScript JSX", 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 24
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/delivery/EngineeringDeliveryReports.module.css", "PostCSS", 0, 0, 0, 183, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 188
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/delivery/EngineeringDeliveryReports.tsx", "TypeScript JSX", 0, 228, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 247
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/delivery/EngineeringDeliveryWorkspace.module.css", "PostCSS", 0, 0, 0, 323, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 328
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/delivery/EngineeringDeliveryWorkspace.tsx", "TypeScript JSX", 0, 434, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 455
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/employee/InvestorVerificationQueue.tsx", "TypeScript JSX", 0, 104, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 113
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/finance/AiForecastWorkspace.module.css", "PostCSS", 0, 0, 0, 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 166
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/finance/AiForecastWorkspace.tsx", "TypeScript JSX", 0, 528, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 564
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/finance/CostPlanningWorkspace.tsx", "TypeScript JSX", 0, 564, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38, 602
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/finance/FinanceForecastWorkspace.module.css", "PostCSS", 0, 0, 0, 154, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 175
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/finance/FinancialSummaryWorkspace.tsx", "TypeScript JSX", 0, 347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 369
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/finance/ResourcePlanningWorkspace.tsx", "TypeScript JSX", 0, 482, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 513
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/finance/RevenueProjectionsWorkspace.tsx", "TypeScript JSX", 0, 776, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 826
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/finance/revenue-import.test.ts", "TypeScript", 113, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 129
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/finance/revenue-import.ts", "TypeScript", 330, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 365
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/hr/HrDocumentsWorkspace.tsx", "TypeScript JSX", 0, 205, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 221
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/hr/HrEmployeePayouts.tsx", "TypeScript JSX", 0, 142, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 154
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/hr/HrFinanceWorkspace.tsx", "TypeScript JSX", 0, 389, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 415
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/hr/HrWorkspace.tsx", "TypeScript JSX", 0, 99, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 112
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/integrations/IntegrationsWorkspace.module.css", "PostCSS", 0, 0, 0, 97, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 98
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/integrations/IntegrationsWorkspace.tsx", "TypeScript JSX", 0, 224, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 233
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/investor/InvestorVerificationView.tsx", "TypeScript JSX", 0, 126, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 136
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/investor/analytics/InvestorAnalyticsOverview.tsx", "TypeScript JSX", 0, 271, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 24, 298
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/investor/analytics/InvestorAnalyticsPrimitives.tsx", "TypeScript JSX", 0, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 11, 124
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/investor/analytics/InvestorPeriodSelector.tsx", "TypeScript JSX", 0, 94, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 103
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/marketing/MarketingBlogs.tsx", "TypeScript JSX", 0, 323, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 337
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/marketing/MarketingWorkspace.tsx", "TypeScript JSX", 0, 1199, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 1205
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/organization/OrganizationRoleManager.tsx", "TypeScript JSX", 0, 285, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 300
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/organization/OrganizationStructure.module.css", "PostCSS", 0, 0, 0, 222, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29, 251
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/organization/OrganizationStructure.tsx", "TypeScript JSX", 0, 2002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 58, 2060
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/sales/SalesLeadDetail.tsx", "TypeScript JSX", 0, 116, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 121
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/sales/SalesLeadsWorkspace.tsx", "TypeScript JSX", 0, 617, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 630
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/sales/SalesPipelineBoard.tsx", "TypeScript JSX", 0, 125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 131
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/dashboard/sales/SalesWorkspace.tsx", "TypeScript JSX", 0, 888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 907
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/investors/BusinessModel.tsx", "TypeScript JSX", 0, 54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 57
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/investors/CompanyOverview.tsx", "TypeScript JSX", 0, 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/investors/InvestorAccess.tsx", "TypeScript JSX", 0, 62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 64
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/investors/InvestorHero.tsx", "TypeScript JSX", 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 85
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/investors/OpportunitySection.tsx", "TypeScript JSX", 0, 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 47
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/investors/ProductShowcase.tsx", "TypeScript JSX", 0, 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 39
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/investors/RicozEcosystem.tsx", "TypeScript JSX", 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 51
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/investors/VisionAndGrowth.tsx", "TypeScript JSX", 0, 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 38
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/investors/WhatWeAreBuilding.tsx", "TypeScript JSX", 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 37
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/investors/WhyRicoz.tsx", "TypeScript JSX", 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 32
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/AboutRicoz.tsx", "TypeScript JSX", 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 71
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/BuildAccordion.tsx", "TypeScript JSX", 0, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 85
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/CapabilityTiles.tsx", "TypeScript JSX", 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 62
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/CareersBand.tsx", "TypeScript JSX", 0, 67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 73
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/CareersSection.tsx", "TypeScript JSX", 0, 66, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 73
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/CompanyDirection.tsx", "TypeScript JSX", 0, 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 45
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/CompanyStats.tsx", "TypeScript JSX", 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 19
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/ExploreRicoz.tsx", "TypeScript JSX", 0, 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 39
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/FactoryPortfolio.tsx", "TypeScript JSX", 0, 216, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 222
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/FactoryThreeScene.tsx", "TypeScript JSX", 0, 280, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 110, 8, 398
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/FinalCTA.tsx", "TypeScript JSX", 0, 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 40
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/HeroSection.tsx", "TypeScript JSX", 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 32
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/InvestorLanding.module.css", "PostCSS", 0, 0, 0, 63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 76
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/InvestorNarrative.tsx", "TypeScript JSX", 0, 132, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 139
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/InvestorSection.tsx", "TypeScript JSX", 0, 73, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 78
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/LandingFooter.tsx", "TypeScript JSX", 0, 83, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 87
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/LandingMotion.tsx", "TypeScript JSX", 0, 126, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 140
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/LandingNavbar.module.css", "PostCSS", 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 23
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/LandingNavbar.tsx", "TypeScript JSX", 0, 369, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 12, 387
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/PortfolioEvidence.tsx", "TypeScript JSX", 0, 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 45
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/ProductFactory.module.css", "PostCSS", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/ProductFactoryAnimation.tsx", "TypeScript JSX", 0, 185, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 6, 212
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/ProductSection.tsx", "TypeScript JSX", 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 48
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/ServicesSection.tsx", "TypeScript JSX", 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 35
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/SwipeCarousel.tsx", "TypeScript JSX", 0, 140, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 150
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/WhatsNew.tsx", "TypeScript JSX", 0, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 53
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/WhatsNewCarousel.module.css", "PostCSS", 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/WhatsNewCarousel.tsx", "TypeScript JSX", 0, 113, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 118
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/WhyRicoz.tsx", "TypeScript JSX", 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 60
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/WorkWithRicoz.tsx", "TypeScript JSX", 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 38
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/landing/WorkflowSection.tsx", "TypeScript JSX", 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 59
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/products/BuildWithRicoz.tsx", "TypeScript JSX", 0, 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 37
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/products/CatalogueNotice.tsx", "TypeScript JSX", 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 20
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/products/FeaturedProduct.tsx", "TypeScript JSX", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/products/ProductCard.tsx", "TypeScript JSX", 0, 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 45
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/products/ProductDeliveryPanel.tsx", "TypeScript JSX", 0, 486, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 498
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/products/ProductDirectory.tsx", "TypeScript JSX", 0, 110, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 115
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/products/ProductEcosystem.tsx", "TypeScript JSX", 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/products/ProductGrid.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/products/ProductsAdminView.tsx", "TypeScript JSX", 0, 632, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 31, 665
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/products/ProductsHero.tsx", "TypeScript JSX", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 16
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/products/PublicProductMark.tsx", "TypeScript JSX", 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 39
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/services/CustomSoftwareSection.tsx", "TypeScript JSX", 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 50
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/services/LiveServicesBrowser.tsx", "TypeScript JSX", 0, 99, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 100
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/services/ProblemSolutions.tsx", "TypeScript JSX", 0, 53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 56
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/services/ServiceCard.tsx", "TypeScript JSX", 0, 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 52
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/services/ServiceDetail.tsx", "TypeScript JSX", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/services/ServiceOverview.tsx", "TypeScript JSX", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 28
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/services/ServiceProcess.tsx", "TypeScript JSX", 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 60
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/services/ServicesHero.tsx", "TypeScript JSX", 0, 78, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 85
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/services/TechnologyStack.tsx", "TypeScript JSX", 0, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 43
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/services/WhoWeServe.tsx", "TypeScript JSX", 0, 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 45
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/solutions/BusinessChallenges.tsx", "TypeScript JSX", 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 25
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/solutions/FeaturedSolution.tsx", "TypeScript JSX", 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 27
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/solutions/ProblemSolutionOutcome.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 15
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/solutions/ProductServiceConnection.tsx", "TypeScript JSX", 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 18
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/solutions/SolutionCard.tsx", "TypeScript JSX", 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/solutions/SolutionCategories.tsx", "TypeScript JSX", 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/solutions/SolutionProcess.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 15
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/solutions/SolutionsCTA.tsx", "TypeScript JSX", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/solutions/SolutionsHero.tsx", "TypeScript JSX", 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 52
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/solutions/TechnologyCapabilities.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/components/solutions/WhoWeHelp.tsx", "TypeScript JSX", 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 18
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/analytics/format.ts", "TypeScript", 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7, 45
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/auth/PublicPage.tsx", "TypeScript JSX", 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/auth/demoAccounts.test.ts", "TypeScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 22
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/auth/demoAccounts.ts", "TypeScript", 174, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 182
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/auth/integrations.test.ts", "TypeScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 26
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/auth/roles.ts", "TypeScript", 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 37
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/auth/route.config.ts", "TypeScript", 129, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7, 140
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/careers/careers.ts", "TypeScript", 73, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 79
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/chat/notificationSound.ts", "TypeScript", 154, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 176
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/chat/theme.ts", "TypeScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 26
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/company.ts", "TypeScript", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 33
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/dashboard/departments.ts", "TypeScript", 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 29
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/dashboard/navigation.ts", "TypeScript", 863, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10, 874
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/greeting.ts", "TypeScript", 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 26
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/investors/content.ts", "TypeScript", 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 42
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/jobRoles.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/marketing/blogs.server.ts", "TypeScript", 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 76
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/products/catalogue.server.ts", "TypeScript", 59, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 64
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/products/catalogue.test.ts", "TypeScript", 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 44
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/products/catalogue.ts", "TypeScript", 68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 79
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/products/innovation-story.test.ts", "TypeScript", 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 45
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/products/innovation-story.ts", "TypeScript", 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 7, 50
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/sales/board.test.ts", "TypeScript", 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 44
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/sales/board.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/services/services.ts", "TypeScript", 126, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 129
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/solutions/solutions.ts", "TypeScript", 99, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 103
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/tasks/delivery-board.test.ts", "TypeScript", 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 76
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/tasks/delivery-board.ts", "TypeScript", 53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 58
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/lib/useHydrated.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 11
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/prompts/MASTER_DEVELOPMENT_PROMPT.md", "Markdown", 0, 0, 454, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 109, 563
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/prompts/PAGE_PROMPT.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/proxy.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 12
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/redux/hooks.ts", "TypeScript", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/redux/slice/auth.slice.ts", "TypeScript", 83, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 93
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/redux/slice/collapse.slice.ts", "TypeScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 27
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/redux/store.reference.ts", "TypeScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 15
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/redux/store.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 16
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/redux/store_provider.tsx", "TypeScript JSX", 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 42
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/adminHr.service.ts", "TypeScript", 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 43
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/analytics/investorAnalytics.ts", "TypeScript", 73, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6, 80
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/analytics/types.ts", "TypeScript", 149, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 171
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/assistant.service.ts", "TypeScript", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 30
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/attendance.service.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/auth.service.ts", "TypeScript", 122, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 18, 144
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/axios.ts", "TypeScript", 135, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9, 146
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/chat.service.ts", "TypeScript", 72, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 77
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/company.service.ts", "TypeScript", 93, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 99
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/compliance.service.ts", "TypeScript", 182, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 186
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/employee.service.ts", "TypeScript", 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 36
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/engineering-delivery.service.ts", "TypeScript", 126, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 129
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/finance-forecast.service.ts", "TypeScript", 213, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 231
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/hr-documents.service.ts", "TypeScript", 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 74
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/hr-finance.service.ts", "TypeScript", 111, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 122
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/hr-payouts.service.ts", "TypeScript", 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 75
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/hr.service.ts", "TypeScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 20
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/integration.service.ts", "TypeScript", 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 72
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/intern.service.ts", "TypeScript", 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 37
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/investor.service.ts", "TypeScript", 63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 72
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/leave.service.ts", "TypeScript", 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/marketing.service.ts", "TypeScript", 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 115
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/notification.service.ts", "TypeScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 21
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/organization.service.ts", "TypeScript", 142, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 144
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/performance.service.ts", "TypeScript", 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/planner.service.ts", "TypeScript", 122, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 127
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/product-engineering-pipeline.service.ts", "TypeScript", 110, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 119
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/product.service.ts", "TypeScript", 90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 99
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/recruitment.service.ts", "TypeScript", 424, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 439
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/roleDashboard.service.ts", "TypeScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 20
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/sales.service.ts", "TypeScript", 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 62
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/services.service.ts", "TypeScript", 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/task.service.ts", "TypeScript", 329, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 333
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/types/auth.types.ts", "TypeScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 26
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/services/userDirectory.service.ts", "TypeScript", 77, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 83
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/types/auth/auth.types.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/types/hr/index.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/types/marketing/index.ts", "TypeScript", 129, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 130
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/src/types/sales/index.ts", "TypeScript", 79, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 85
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/tsconfig.json", "JSON with Comments", 0, 0, 0, 0, 0, 0, 0, 34, 0, 0, 0, 0, 0, 1, 35
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/client/vercel.json", "JSON", 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/.claude/settings.json", "JSON with Comments", 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/AGENTS.md", "Markdown", 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 42
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/CLAUDE.md", "Markdown", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/README.md", "Markdown", 0, 0, 107, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 63, 170
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/app.json", "JSON with Comments", 0, 0, 0, 0, 0, 0, 0, 128, 0, 0, 0, 0, 0, 1, 129
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/babel.config.js", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 1, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/eas.json", "JSON with Comments", 0, 0, 0, 0, 0, 0, 0, 21, 0, 0, 0, 0, 0, 1, 22
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/eslint.config.js", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 1, 2, 11
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/global.css", "PostCSS", 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/metro.config.js", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 3, 7
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/nativewind-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/package-lock.json", "JSON", 0, 0, 0, 0, 0, 14349, 0, 0, 0, 0, 0, 0, 0, 1, 14350
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/package.json", "JSON", 0, 0, 0, 0, 0, 76, 0, 0, 0, 0, 0, 0, 0, 1, 77
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/public/chat-wallpaper.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/scripts/features.test.cjs", "JavaScript", 0, 0, 0, 0, 217, 0, 0, 0, 0, 0, 0, 0, 0, 25, 242
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/scripts/reset-project.js", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 89, 0, 0, 0, 10, 14, 113
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/(app)/_layout.tsx", "TypeScript JSX", 0, 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 38
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/(app)/chat/[conversationId].tsx", "TypeScript JSX", 0, 794, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 807
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/(app)/chat/index.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/(app)/feature/[slug].tsx", "TypeScript JSX", 0, 108, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 114
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/(app)/index.tsx", "TypeScript JSX", 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 15
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/(app)/profile.tsx", "TypeScript JSX", 0, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 118
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/(app)/workspace.tsx", "TypeScript JSX", 0, 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 40
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/(auth)/_layout.tsx", "TypeScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/(auth)/forgot-password.tsx", "TypeScript JSX", 0, 62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 64
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/(auth)/login.tsx", "TypeScript JSX", 0, 143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 148
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/(auth)/signup.tsx", "TypeScript JSX", 0, 205, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 213
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/_layout.tsx", "TypeScript JSX", 0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 65
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/app/index.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/about-view.tsx", "TypeScript JSX", 0, 108, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 116
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/admin-hr-view.tsx", "TypeScript JSX", 0, 86, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 94
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/assistant-view.tsx", "TypeScript JSX", 0, 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 44
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/attendance-view.tsx", "TypeScript JSX", 0, 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 44
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/calendar-view.tsx", "TypeScript JSX", 0, 135, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 145
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/chat-activity-view.tsx", "TypeScript JSX", 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 128
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/chat-bottom-tabs.tsx", "TypeScript JSX", 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 36
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/chat-conversations-view.tsx", "TypeScript JSX", 0, 924, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 940
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/chat-theme-toggle.tsx", "TypeScript JSX", 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 20
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/companies-view.tsx", "TypeScript JSX", 0, 97, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 103
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/compliance-view.tsx", "TypeScript JSX", 0, 195, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 207
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/contact-view.tsx", "TypeScript JSX", 0, 51, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 56
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/customer-portal-view.tsx", "TypeScript JSX", 0, 150, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 158
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/dashboard-shell.tsx", "TypeScript JSX", 0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 125
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/dashboard-view.tsx", "TypeScript JSX", 0, 136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 147
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/feature-data-view.tsx", "TypeScript JSX", 0, 83, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 92
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/goals-view.tsx", "TypeScript JSX", 0, 81, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 90
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/hr-workspace-view.tsx", "TypeScript JSX", 0, 170, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 181
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/investor-portal-view.tsx", "TypeScript JSX", 0, 87, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 94
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/investor-verification-view.tsx", "TypeScript JSX", 0, 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 83
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/leave-view.tsx", "TypeScript JSX", 0, 51, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 58
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/loading-screen.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/marketing-workspace-view.tsx", "TypeScript JSX", 0, 211, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 228
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/notifications-view.tsx", "TypeScript JSX", 0, 86, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 94
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/onboarding-view.tsx", "TypeScript JSX", 0, 72, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 79
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/organization-structure-view.tsx", "TypeScript JSX", 0, 149, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 158
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/organization-view.tsx", "TypeScript JSX", 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 59
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/planner-view.tsx", "TypeScript JSX", 0, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 33
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/products-view.tsx", "TypeScript JSX", 0, 168, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 178
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/recruitment-admin-view.tsx", "TypeScript JSX", 0, 116, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 123
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/recruitment-view.tsx", "TypeScript JSX", 0, 116, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 126
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/role-area-view.tsx", "TypeScript JSX", 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 65
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/sales-workspace-view.tsx", "TypeScript JSX", 0, 1143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 1168
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/security-view.tsx", "TypeScript JSX", 0, 108, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 121
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/service-requests-view.tsx", "TypeScript JSX", 0, 87, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 96
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/settings-view.tsx", "TypeScript JSX", 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 60
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/task-contribution-grid.tsx", "TypeScript JSX", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/task-reports-view.tsx", "TypeScript JSX", 0, 152, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 162
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/task-workflow-view.tsx", "TypeScript JSX", 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 76
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/tasks-view.tsx", "TypeScript JSX", 0, 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 53
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/tasks-workspace-view.tsx", "TypeScript JSX", 0, 99, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 103
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/team-view.tsx", "TypeScript JSX", 0, 172, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 183
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/ui/form-scroll-view.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/ui/primitives.tsx", "TypeScript JSX", 0, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 87
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/ui/view-kit.tsx", "TypeScript JSX", 0, 140, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 157
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/users-directory-view.tsx", "TypeScript JSX", 0, 93, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 99
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/website-dashboard-view.tsx", "TypeScript JSX", 0, 173, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 183
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/website-task-reports-view.tsx", "TypeScript JSX", 0, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 107
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/components/workflow-tasks-view.tsx", "TypeScript JSX", 0, 108, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 113
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/config/env.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/constants/theme.ts", "TypeScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 23
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/features/dashboard-model.ts", "TypeScript", 81, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 87
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/features/organization-model.ts", "TypeScript", 67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 70
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/features/registry.ts", "TypeScript", 446, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 11, 460
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/features/task-model.ts", "TypeScript", 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 61
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/lib/livekit-setup.native.ts", "TypeScript", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/lib/livekit-setup.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/lib/livekit-setup.web.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/lib/token-vault.ts", "TypeScript", 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 58
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/providers/CallProvider.native.tsx", "TypeScript JSX", 0, 836, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 27, 867
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/providers/CallProvider.tsx", "TypeScript JSX", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/providers/CallProvider.web.tsx", "TypeScript JSX", 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 25
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/providers/app-provider.tsx", "TypeScript JSX", 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/providers/call-context.ts", "TypeScript", 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 47
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/providers/chat-theme.tsx", "TypeScript JSX", 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 62
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/providers/dashboard-department.tsx", "TypeScript JSX", 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/providers/runtime-call-provider.native.tsx", "TypeScript JSX", 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/providers/runtime-call-provider.tsx", "TypeScript JSX", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/admin.service.ts", "TypeScript", 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 50
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/api.ts", "TypeScript", 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 116
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/auth.service.ts", "TypeScript", 81, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 95
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/chat.service.ts", "TypeScript", 210, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 215
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/company.service.ts", "TypeScript", 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 25
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/compliance.service.ts", "TypeScript", 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 60
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/contact.service.ts", "TypeScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/directory.service.ts", "TypeScript", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 29
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/hr.service.ts", "TypeScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 21
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/investor.service.ts", "TypeScript", 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 38
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/marketing.service.ts", "TypeScript", 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 46
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/notifications.service.ts", "TypeScript", 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 36
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/organization.service.ts", "TypeScript", 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 51
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/product.service.ts", "TypeScript", 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 32
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/recruitment.service.ts", "TypeScript", 93, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 97
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/sales.service.ts", "TypeScript", 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 45
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/serviceAdmin.service.ts", "TypeScript", 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 61
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/services/workspace.service.ts", "TypeScript", 170, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 172
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/store/auth.slice.ts", "TypeScript", 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 38
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/store/hooks.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/store/index.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/types/auth.ts", "TypeScript", 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 49
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/types/chat.ts", "TypeScript", 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 76
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/types/recruitment.ts", "TypeScript", 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 43
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/src/types/sales.ts", "TypeScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 30
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/tailwind.config.js", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 33, 0, 0, 0, 1, 1, 35
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/mobile/tsconfig.json", "JSON with Comments", 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 18
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/.dockerignore", "Ignore", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 1, 12
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 1, 2, 24
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/compose.production.yml", "YAML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 37, 0, 0, 0, 3, 40
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/ecosystem.config.cjs", "JavaScript", 0, 0, 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/package-lock.json", "JSON", 0, 0, 0, 0, 0, 3730, 0, 0, 0, 0, 0, 0, 0, 1, 3731
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/package.json", "JSON", 0, 0, 0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 1, 59
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/config/env.ts", "TypeScript", 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 34
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/config/invoiceApiClient.ts", "TypeScript", 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 11, 64
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/config/mongodb.ts", "TypeScript", 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 16
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/constants/jobRoles.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/middleware/auth.middleware.ts", "TypeScript", 85, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8, 95
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/middleware/error_handler.middleware.ts", "TypeScript", 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 26
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/middleware/rate_limiter.middleware.ts", "TypeScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 29
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/middleware/validate_request.middleware.ts", "TypeScript", 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 33
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/application.models.ts", "TypeScript", 84, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 88
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/applicationAssignment.models.ts", "TypeScript", 66, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 73
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/assistantSession.models.ts", "TypeScript", 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 23
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/attendance.models.ts", "TypeScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 33
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/chat.models.ts", "TypeScript", 130, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 140
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/chatActivity.models.ts", "TypeScript", 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/company-category.models.ts", "TypeScript", 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 26
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/company.models.ts", "TypeScript", 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 39
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/compliance.models.ts", "TypeScript", 391, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 418
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/cost-planning.models.ts", "TypeScript", 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 52
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/customerProfile.models.ts", "TypeScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 23
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/customerProject.models.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/employeeProfile.models.ts", "TypeScript", 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/engineering-delivery.models.ts", "TypeScript", 124, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 137
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/finance-forecast.models.ts", "TypeScript", 55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 62
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/hr-document.models.ts", "TypeScript", 66, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 73
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/hr-finance.models.ts", "TypeScript", 138, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 153
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/hr-payout.models.ts", "TypeScript", 99, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 111
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/index.ts", "TypeScript", 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/integration.models.ts", "TypeScript", 87, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 91
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/internProfile.models.ts", "TypeScript", 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 39
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/investorProfile.models.ts", "TypeScript", 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/leave-policy.models.ts", "TypeScript", 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 15
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/leave.models.ts", "TypeScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 37
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/marketingBlog.models.ts", "TypeScript", 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 40
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/marketingCampaign.models.ts", "TypeScript", 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 65
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/notification.models.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 13
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/offerLetter.models.ts", "TypeScript", 127, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 133
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/opportunity.models.ts", "TypeScript", 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 74
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/organization-control.models.ts", "TypeScript", 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 115
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/organization.models.ts", "TypeScript", 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 83
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/otp.models.ts", "TypeScript", 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 66
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/performance.models.ts", "TypeScript", 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 22
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/planner.models.ts", "TypeScript", 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/product-engineering-pipeline.models.ts", "TypeScript", 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 114
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/product.models.ts", "TypeScript", 55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 60
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/recruitment-pipeline.models.ts", "TypeScript", 239, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 257
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/resource-planning.models.ts", "TypeScript", 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 54
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/salesLead.models.ts", "TypeScript", 109, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 117
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/salesPipeline.models.ts", "TypeScript", 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/service.models.ts", "TypeScript", 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 21
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/serviceRequest.models.ts", "TypeScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/session.models.ts", "TypeScript", 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 39
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/task.models.ts", "TypeScript", 214, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 227
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/taskDailyReport.models.ts", "TypeScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 26
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/user.models.ts", "TypeScript", 54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 58
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/models/workspace.models.ts", "TypeScript", 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 40
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/admin/admin.controller.ts", "TypeScript", 328, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 352
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/admin/admin.onboarding.test.ts", "TypeScript", 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 90
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/admin/admin.routes.ts", "TypeScript", 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 62
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/admin/admin.validation.ts", "TypeScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 28
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/analytics/analytics.controller.ts", "TypeScript", 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 34
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/analytics/analytics.routes.ts", "TypeScript", 64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6, 71
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/analytics/analytics.service.ts", "TypeScript", 313, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 26, 342
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/analytics/analytics.validation.ts", "TypeScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 23
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/analytics/invoiceAnalytics.service.ts", "TypeScript", 284, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 22, 310
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/analytics/period.util.ts", "TypeScript", 54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10, 65
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/assistant/assistant.controller.ts", "TypeScript", 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 33
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/assistant/assistant.routes.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/assistant/assistant.service.test.ts", "TypeScript", 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 17
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/assistant/assistant.service.ts", "TypeScript", 235, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 243
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/assistant/assistant.session.ts", "TypeScript", 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 40
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/assistant/assistant.tools.ts", "TypeScript", 219, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 223
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/assistant/assistant.validation.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/attendance/attendance.controller.test.ts", "TypeScript", 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 21
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/attendance/attendance.controller.ts", "TypeScript", 152, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 158
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/attendance/attendance.routes.ts", "TypeScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 15
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/attendance/attendance.validation.ts", "TypeScript", 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/auth/auth.controller.ts", "TypeScript", 546, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 64, 632
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/auth/auth.routes.ts", "TypeScript", 81, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 86
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/auth/auth.validation.test.ts", "TypeScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 27
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/auth/auth.validation.ts", "TypeScript", 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 11, 91
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/auth/authorization.ts", "TypeScript", 618, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 20, 640
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/chat/chat.activity.controller.ts", "TypeScript", 116, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 124
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/chat/chat.activity.test.ts", "TypeScript", 133, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 147
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/chat/chat.controller.ts", "TypeScript", 940, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 968
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/chat/chat.gateway.ts", "TypeScript", 310, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 320
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/chat/chat.infrastructure.ts", "TypeScript", 83, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 12, 98
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/chat/chat.message.test.ts", "TypeScript", 134, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 146
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/chat/chat.routes.ts", "TypeScript", 125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 127
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/chat/chat.validation.ts", "TypeScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 36
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/company/company.context.ts", "TypeScript", 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 11, 46
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/company/company.controller.ts", "TypeScript", 300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 322
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/company/company.plugin.ts", "TypeScript", 62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 14, 79
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/company/company.routes.ts", "TypeScript", 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 36
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/company/company.search.ts", "TypeScript", 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 53
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/company/company.service.ts", "TypeScript", 175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 19, 198
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/company/company.test.ts", "TypeScript", 205, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 241
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/compliance/compliance.controller.ts", "TypeScript", 687, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 732
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/compliance/compliance.routes.ts", "TypeScript", 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 114
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/compliance/compliance.validation.test.ts", "TypeScript", 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/compliance/compliance.validation.ts", "TypeScript", 199, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 208
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/compliance/compliance.worker.ts", "TypeScript", 179, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 193
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/contact/contact.controller.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 13
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/contact/contact.routes.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/contact/contact.validation.ts", "TypeScript", 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/employee/employee.controller.ts", "TypeScript", 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 36
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/employee/employee.dashboard.controller.ts", "TypeScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 21
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/employee/employee.routes.ts", "TypeScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 33
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/employee/employee.validation.ts", "TypeScript", 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 11
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/ai-forecast.test.ts", "TypeScript", 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 85
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/ai-forecast.ts", "TypeScript", 164, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 177
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/cost-planning.test.ts", "TypeScript", 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 48
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/cost-planning.ts", "TypeScript", 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/cost-planning.validation.ts", "TypeScript", 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 34
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/finance.controller.ts", "TypeScript", 328, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 351
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/finance.routes.ts", "TypeScript", 110, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 114
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/finance.validation.test.ts", "TypeScript", 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 36
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/finance.validation.ts", "TypeScript", 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 91
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/financial-summary.test.ts", "TypeScript", 79, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 84
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/financial-summary.ts", "TypeScript", 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 52
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/resource-planning.test.ts", "TypeScript", 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 55
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/resource-planning.ts", "TypeScript", 51, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 55
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/resource-planning.validation.ts", "TypeScript", 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 35
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/revenue-deletion.controller.test.ts", "TypeScript", 116, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 132
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/revenue-projections.test.ts", "TypeScript", 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 77
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/finance/revenue-projections.ts", "TypeScript", 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 55
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-document.pdf.test.ts", "TypeScript", 63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 71
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-document.pdf.ts", "TypeScript", 115, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 126
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-documents.controller.test.ts", "TypeScript", 121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 137
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-documents.controller.ts", "TypeScript", 243, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 258
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-documents.validation.ts", "TypeScript", 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 42
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-finance.controller.test.ts", "TypeScript", 382, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 413
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-finance.controller.ts", "TypeScript", 419, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 442
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-finance.payslip.test.ts", "TypeScript", 66, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 74
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-finance.payslip.ts", "TypeScript", 225, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 245
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-finance.validation.ts", "TypeScript", 51, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 59
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-payout.controller.test.ts", "TypeScript", 140, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 154
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-payout.controller.ts", "TypeScript", 363, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 386
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr-payout.validation.ts", "TypeScript", 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 42
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr.controller.ts", "TypeScript", 158, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 165
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr.routes.ts", "TypeScript", 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 74
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/hr.validation.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/razorpayx.service.test.ts", "TypeScript", 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 81
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/hr/razorpayx.service.ts", "TypeScript", 163, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 178
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/integrations/integration.access.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/integrations/integration.catalog.ts", "TypeScript", 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 44
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/integrations/integration.ingestion.ts", "TypeScript", 185, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 192
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/integrations/integration.routes.ts", "TypeScript", 165, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 172
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/integrations/integration.security.ts", "TypeScript", 88, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 94
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/integrations/integration.service.ts", "TypeScript", 83, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 87
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/integrations/integration.test.ts", "TypeScript", 209, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 224
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/integrations/integration.validation.ts", "TypeScript", 98, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 103
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/intern/intern.controller.ts", "TypeScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 37
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/intern/intern.dashboard.controller.ts", "TypeScript", 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 20
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/intern/intern.routes.ts", "TypeScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 32
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/intern/intern.validation.ts", "TypeScript", 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 12
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/investor/investor.controller.ts", "TypeScript", 134, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 16, 155
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/investor/investor.routes.ts", "TypeScript", 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 61
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/investor/investor.validation.ts", "TypeScript", 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 24
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/leave/leave-policy.service.ts", "TypeScript", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 29
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/leave/leave.controller.test.ts", "TypeScript", 108, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 119
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/leave/leave.controller.ts", "TypeScript", 126, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 133
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/leave/leave.routes.ts", "TypeScript", 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 33
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/leave/leave.validation.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/marketing/marketing.authorization.ts", "TypeScript", 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 40
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/marketing/marketing.blogs.controller.test.ts", "TypeScript", 74, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 80
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/marketing/marketing.blogs.controller.ts", "TypeScript", 136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 144
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/marketing/marketing.blogs.validation.ts", "TypeScript", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 32
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/marketing/marketing.controller.ts", "TypeScript", 500, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 513
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/marketing/marketing.routes.ts", "TypeScript", 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 25
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/marketing/marketing.validation.ts", "TypeScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 34
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/organization/organization-control.service.test.ts", "TypeScript", 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 84
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/organization/organization-control.service.ts", "TypeScript", 116, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 125
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/organization/organization.access.test.ts", "TypeScript", 271, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 289
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/organization/organization.access.ts", "TypeScript", 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 67
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/organization/organization.controller.ts", "TypeScript", 1237, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 23, 1261
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/organization/organization.hr.test.ts", "TypeScript", 248, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 271
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/organization/organization.roles.test.ts", "TypeScript", 301, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 336
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/organization/organization.roles.ts", "TypeScript", 109, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 115
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/organization/organization.routes.ts", "TypeScript", 191, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 193
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/organization/organization.validation.test.ts", "TypeScript", 64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 75
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/organization/organization.validation.ts", "TypeScript", 62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 66
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/performance/performance.controller.ts", "TypeScript", 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 16
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/performance/performance.routes.ts", "TypeScript", 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/planner/planner.controller.ts", "TypeScript", 97, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 106
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/planner/planner.routes.ts", "TypeScript", 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 35
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/planner/planner.service.ts", "TypeScript", 403, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 426
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/planner/planner.test.ts", "TypeScript", 73, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 83
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/planner/planner.validation.ts", "TypeScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 19
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/products/products.controller.ts", "TypeScript", 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 218
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/products/products.lifecycle.ts", "TypeScript", 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 20
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/products/products.public.test.ts", "TypeScript", 242, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 259
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/products/products.public.ts", "TypeScript", 139, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 146
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/products/products.routes.ts", "TypeScript", 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 37
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/products/products.test.ts", "TypeScript", 260, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 279
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/products/products.validation.ts", "TypeScript", 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 52
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/offer.link.ts", "TypeScript", 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 87
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/offer.presentation.ts", "TypeScript", 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 74
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/offer.service.test.ts", "TypeScript", 153, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 166
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/offer.service.ts", "TypeScript", 348, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 22, 373
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/offer.template.ts", "TypeScript", 98, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 101
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/offer.validation.ts", "TypeScript", 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 51
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/recruitment-pipeline.controller.ts", "TypeScript", 981, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, 1020
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/recruitment-pipeline.service.test.ts", "TypeScript", 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 51
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/recruitment-pipeline.service.ts", "TypeScript", 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 54
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/recruitment-pipeline.validation.ts", "TypeScript", 149, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 169
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/recruitment.assignment.test.ts", "TypeScript", 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 49
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/recruitment.controller.ts", "TypeScript", 910, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 954
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/recruitment.direct.test.ts", "TypeScript", 74, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 80
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/recruitment.onboarding.test.ts", "TypeScript", 85, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 95
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/recruitment.routes.ts", "TypeScript", 473, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 475
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/recruitment.validation.test.ts", "TypeScript", 63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 72
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/recruitment.validation.ts", "TypeScript", 203, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 205
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/recruitment/role-expiry.service.ts", "TypeScript", 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 41
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/sales/sales.authorization.ts", "TypeScript", 84, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 92
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/sales/sales.controller.ts", "TypeScript", 746, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 768
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/sales/sales.pipeline.test.ts", "TypeScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 35
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/sales/sales.pipeline.ts", "TypeScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 31
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/sales/sales.routes.ts", "TypeScript", 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 51
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/sales/sales.test.ts", "TypeScript", 268, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 293
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/sales/sales.validation.ts", "TypeScript", 105, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 114
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/services/services.controller.ts", "TypeScript", 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 35
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/services/services.routes.ts", "TypeScript", 107, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 108
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/services/services.validation.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/engineering-delivery.controller.test.ts", "TypeScript", 157, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 169
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/engineering-delivery.controller.ts", "TypeScript", 268, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 18, 287
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/engineering-delivery.progress.test.ts", "TypeScript", 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 111
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/engineering-delivery.progress.ts", "TypeScript", 137, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 152
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/engineering-delivery.validation.ts", "TypeScript", 67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 69
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/engineering-delivery.workflow.test.ts", "TypeScript", 177, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 192
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/engineering-delivery.workflow.ts", "TypeScript", 146, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 157
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/notification.routes.ts", "TypeScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 29
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/product-engineering-pipeline.controller.test.ts", "TypeScript", 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 43
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/product-engineering-pipeline.controller.ts", "TypeScript", 155, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 170
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/product-engineering-pipeline.validation.ts", "TypeScript", 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 45
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/task-company-access.test.ts", "TypeScript", 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 25
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/task-company-access.ts", "TypeScript", 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 35
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/task-notification.service.ts", "TypeScript", 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 50
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/task-performance.controller.test.ts", "TypeScript", 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 35
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/task-performance.controller.ts", "TypeScript", 235, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 245
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/task-progress.test.ts", "TypeScript", 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 31
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/task-progress.ts", "TypeScript", 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 46
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/task-workflow.controller.ts", "TypeScript", 560, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 579
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/task.controller.ts", "TypeScript", 528, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 542
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/task.personal.test.ts", "TypeScript", 275, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 291
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/task.routes.ts", "TypeScript", 144, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 151
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/tasks/task.validation.ts", "TypeScript", 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 92
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/users/users.controller.ts", "TypeScript", 288, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 20, 312
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/users/users.routes.ts", "TypeScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 20
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/users/users.test.ts", "TypeScript", 125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 141
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/users/users.validation.ts", "TypeScript", 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 23
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/modules/verification/profile.service.ts", "TypeScript", 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 36
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/routes/index.ts", "TypeScript", 59, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 66
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/routes/protected.routes.ts", "TypeScript", 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 52
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/scripts/chat-worker.ts", "TypeScript", 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 10
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/scripts/preview-offer.ts", "TypeScript", 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 32
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/scripts/seed-demo-accounts.ts", "TypeScript", 219, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 242
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/scripts/seed-demo-tasks.ts", "TypeScript", 189, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 199
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/server.ts", "TypeScript", 136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 15, 160
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/types/http/index.d.ts", "TypeScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 29
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/utils/apiError.utils.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/utils/cloudinary.utils.ts", "TypeScript", 91, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 97
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/utils/email.presentation.test.ts", "TypeScript", 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 50
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/utils/email.presentation.ts", "TypeScript", 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 130
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/utils/email.utils.ts", "TypeScript", 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 13, 198
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/utils/livekit.utils.ts", "TypeScript", 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6, 43
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/utils/tokens.ts", "TypeScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 32
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/utils/webrtc.utils.test.ts", "TypeScript", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 28
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/src/utils/webrtc.utils.ts", "TypeScript", 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 21
+"/Users/prafullprince/Coding/Prafull_Prince/Internships/Ricoz Innovation/ricoz_portals/server/tsconfig.json", "JSON with Comments", 0, 0, 0, 0, 0, 0, 0, 21, 0, 0, 0, 0, 18, 6, 45
+"Total", "-", 40603, 46893, 2594, 2197, 256, 26886, 7, 227, 143, 37, 11, 21, 524, 6778, 127177
