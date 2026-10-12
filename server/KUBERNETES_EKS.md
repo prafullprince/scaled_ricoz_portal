@@ -37,7 +37,7 @@ aws eks update-kubeconfig --region "$AWS_REGION" --name "$CLUSTER_NAME"
 kubectl get nodes
 ```
 
-This creates the EKS cluster and managed nodes, but does not install the AWS Load Balancer Controller or set up cluster node autoscaling. Install the AWS Load Balancer Controller following the current AWS EKS guide for your cluster; it requires an IAM role/service account with the controller policy. Install Metrics Server if it is not already available:
+This creates the EKS cluster and managed nodes, but does not install the AWS Load Balancer Controller or set up cluster node autoscaling. Install the [AWS Load Balancer Controller](https://docs.aws.amazon.com/eks/latest/userguide/aws-load-balancer-controller.html) following the current AWS guide for your cluster; it requires an IAM role/service account with the controller policy. Install Metrics Server if it is not already available:
 
 ```bash
 kubectl top nodes
@@ -47,7 +47,7 @@ Do not continue until `kubectl get nodes` lists Ready nodes and `kubectl top nod
 
 ## 2. Build and push the API image to ECR
 
-Create a private ECR repository once, then build the server image from the `server` directory:
+From the repository root, create a private ECR repository once, then build the server image using `server/` as its build context:
 
 ```bash
 AWS_ACCOUNT_ID=$(aws sts get-caller-identity --query Account --output text)
@@ -61,6 +61,7 @@ aws ecr get-login-password --region "$AWS_REGION" \
   | docker login --username AWS --password-stdin "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com"
 docker build --platform linux/amd64 -t "${ECR_URI}:${IMAGE_TAG}" server
 docker push "${ECR_URI}:${IMAGE_TAG}"
+echo "${ECR_URI}:${IMAGE_TAG}"
 ```
 
 Use the same AWS region as your cluster and ACM certificate. If your EKS nodes are ARM-based, build for `linux/arm64` instead. Use a unique immutable tag for each release; do not deploy `latest`.
@@ -115,7 +116,7 @@ Check rollout, pod health, worker logs, and HPA metrics:
 ```bash
 API_HOSTNAME=api.example.com
 kubectl -n ricoz get pods,hpa
-kubectl -n ricoz logs deployment/ricoz-api --all-pods=true --tail=100
+kubectl -n ricoz logs -l app=ricoz-api --all-containers=true --prefix=true --tail=100
 kubectl -n ricoz logs deployment/ricoz-workers --tail=100
 kubectl -n ricoz describe hpa ricoz-api
 curl -fsS "https://${API_HOSTNAME}/health"
